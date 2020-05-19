@@ -1,0 +1,41 @@
+body {
+  background: url(../_assets/img/traffic-332857_1920.jpg);
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
+  text-align: center;
+}
+
+
+article{
+    padding-top:5%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    display: inline-block;
+    font-family: 'garamond', serif;
+    font-size: 72px;
+    background-color: #C5C4BF;
+    color: #2c2c2c;
+    padding: 2%;
+    margin: 0 auto;
+}
+
+p{
+  
+    font-family: 'garamond', serif;
+    font-size: 30px;
+    background-color: #C5C4BF;
+    color: #2c2c2c;
+    padding: 2%;
+    margin: 2%;
+    width:70%;
+}
